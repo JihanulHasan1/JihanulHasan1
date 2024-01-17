@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**JihanulHasan1/JihanulHasan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Md Jihanul Hasan, and I'm a student at Independent University Bangladesh. Currently, I am learning and working on projects involving Node.js, Express.js, PostgreSQL, and MySQL.
 
-Here are some ideas to get you started:
+## 🌐 Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my portfolio website: [Portfolio](your-portfolio-website-link)
+
+## ✉️ Contact
+
+Feel free to reach out to me via email: [your-email@example.com](itsjihanulhasan2gmail.com)
+
+## 🔗 Connect with Me
+
+Connect with me on social media:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mdjihanulhasan-blue?style=flat-square&logo=linkedin)]([your-linkedin-profile-link](https://www.linkedin.com/in/jihanulhasan/))
+[![Twitter](https://img.shields.io/badge/Twitter-mdjihanul-blue?style=flat-square&logo=twitter)]([your-twitter-profile-link](https://twitter.com/jihanul_md))
+[![Instagram](https://img.shields.io/badge/Instagram-mdjihanul-blue?style=flat-square&logo=instagram)]([your-instagram-profile-link](https://www.instagram.com/jihanul.hasan/)https://www.instagram.com/jihanul.hasan/)
+
+Happy coding! 🚀
