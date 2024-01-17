@@ -14,8 +14,8 @@ Feel free to reach out to me via email: [your-email@example.com](itsjihanulhasan
 
 Connect with me on social media:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mdjihanulhasan-blue?style=flat-square&logo=linkedin)]([your-linkedin-profile-link](https://www.linkedin.com/in/jihanulhasan/))
-[![Twitter](https://img.shields.io/badge/Twitter-mdjihanul-blue?style=flat-square&logo=twitter)]([your-twitter-profile-link](https://twitter.com/jihanul_md))
-[![Instagram](https://img.shields.io/badge/Instagram-mdjihanul-blue?style=flat-square&logo=instagram)]([your-instagram-profile-link](https://www.instagram.com/jihanul.hasan/)https://www.instagram.com/jihanul.hasan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)]([your-linkedin-profile-link](https://www.linkedin.com/in/jihanulhasan/))
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)]([your-twitter-profile-link](https://twitter.com/jihanul_md))
+[![Instagram](https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram)]([your-instagram-profile-link](https://www.instagram.com/jihanul.hasan/)https://www.instagram.com/jihanul.hasan/)
 
 Happy coding! 🚀
