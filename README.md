@@ -7,8 +7,7 @@ My name is Md Jihanul Hasan, and I'm a student at Independent University Banglad
 Check out my portfolio website: [Portfolio](your-portfolio-website-link)
 
 ## ✉️ Contact
-
-Feel free to reach out to me via email: [itsjihanulhasan@gmail.com](itsjihanulhasan@gmail.com)
+Feel free to reach out to me via email: [itsjihanulhasan@gmail.com](mailto:itsjihanulhasan@gmail.com)
 
 ## 🔗 Connect with Me
 
