@@ -8,7 +8,7 @@ Check out my portfolio website: [Portfolio](your-portfolio-website-link)
 
 ## ✉️ Contact
 
-Feel free to reach out to me via email: [your-email@example.com](itsjihanulhasan2gmail.com)
+Feel free to reach out to me via email: [itsjihanulhasan@gmail.com](itsjihanulhasan2gmail.com)
 
 ## 🔗 Connect with Me
 
